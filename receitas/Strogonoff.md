@@ -1,23 +1,25 @@
-# Strogonoff de Frango
+# 🐔 Strogonoff de Frango 🐔
 
 ### Ingredientes
 
-- 1kg peito de frango
-- 1 tablete de caldo de galinha
-- 3 colheres de sopa de óleo
-- 2 latas
-- bla
-- ble
-- bli
-- blo
-- blu
+- 3 peitos de frango cortados em cubos
+- 1 dente de alho picado
+- Sal e pimenta a gosto
+- 1 cebola picada
+- 1 colher de manteiga
+- 1/2 copo de ketchup
+- 1/3 copo de mostarda
+- 1 copo de creme de leite
+- Batata palha a gosto
 
 
 
 ### Modo de Preparo
 
-1. Preparo 1
-2. Preparo 2
-3. Finalização
-4. Servir
+1. Numa panela, misture o frango, alho, sal e pimenta.
+2. Em uma frigideira, derreta a manteiga e doure a cebola.
+3. Junte ao frango temperado e aguarde até que esteja dourado
+4. Adicione o ketchup, mostarda e creme de leite
+4. Tire do fogo antes de ferver
+4. Sirva
 
